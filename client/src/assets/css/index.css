@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'roboto', arial;
+}
+hr {
+  margin: 8px 0;
+  border: 1px solid rgb(78, 78, 78);
+}
+
+button:hover {
+  cursor: pointer;
+}
